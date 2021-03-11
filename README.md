@@ -1,1 +1,2 @@
-# Walter coding website for networking purposes
+# My resume website
+Walter coding website for networking purposes
