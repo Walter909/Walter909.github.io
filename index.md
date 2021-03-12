@@ -26,3 +26,9 @@ Computer engineer (and sometimes intense gamer) born in Lagos, Nigeria_ <br>
 -[Project3](https://github.com/CPE202-Johnson/project3-Walter909/blob/main/ass3a.md)
 -[Project4](https://github.com/CPE202-Johnson/project4-Walter909/blob/main/ass4.md)
 <br>
+## 📌 Skills
+
+  - Python
+  - Java
+  - C++(Entry level)
+  <br><br>
