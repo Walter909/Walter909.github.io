@@ -1,54 +1,5 @@
-# Getting started
+# Walter Toriola
 
-You can use the [editor on GitHub](https://github.com/Walter909/Walter909.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Computer engineer (and sometimes intense gamer) born in Lagos, Nigeria_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-🏆
-
-
-logo: # filename of a logo image that has been placed into your images directory
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Walter
-  avatar: #add some image
-  bio: "This is my CV academic website."
-  email: wtoriola@calpoly.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: walter_tori111
-  linkedin: #username
-  github: Walter909
-  Phone #: # (ex. 000-000-0000)
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Walter909/Walter909.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Email](mailto:wtoriola@calpoly.edu) /  / [LinkedIn](https://www.linkedin.com/in/walter-toriola-8849151b1/) / [GitHub](https://github.com/Walter909) / [Twitter](https://twitter.com/walter_tori11) 
