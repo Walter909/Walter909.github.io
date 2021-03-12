@@ -20,15 +20,17 @@ Computer engineer (and sometimes intense gamer) born in Lagos, Nigeria_ <br>
 **California Polytechnic San Lois Obispo** Bachelor's degree<br>
 [Calpoly Slo](https://www.calpoly.edu/) - California, USA _(FALL 2020 - PRESENT)_
 
-## 💻 Projects @ Calpoly
--[Project1](https://github.com/CPE202-Johnson/project1-Walter909/blob/main/ass1.md)
--[Project2](https://github.com/CPE202-Johnson/project2-Walter909/blob/main/ass2.md)
--[Project3](https://github.com/CPE202-Johnson/project3-Walter909/blob/main/ass3a.md)
--[Project4](https://github.com/CPE202-Johnson/project4-Walter909/blob/main/ass4.md)
-<br>
 ## 📌 Skills
 
   - Python
   - Java
   - C++(Entry level)
   <br><br>
+
+## 💻 Projects @ Calpoly
+-[Project1](https://github.com/CPE202-Johnson/project1-Walter909/blob/main/ass1.md)
+-[Project2](https://github.com/CPE202-Johnson/project2-Walter909/blob/main/ass2.md)
+-[Project3](https://github.com/CPE202-Johnson/project3-Walter909/blob/main/ass3a.md)
+-[Project4](https://github.com/CPE202-Johnson/project4-Walter909/blob/main/ass4.md)
+<br>
+
