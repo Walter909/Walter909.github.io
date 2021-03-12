@@ -8,7 +8,7 @@ Computer engineer (and sometimes intense gamer) born in Lagos, Nigeria_ <br>
 
 **English**: Native <br>
 **Yoruba**: Beginner
-<br><br>
+<br>
 ## 🎓 Education
 
 **Chrisland High School** High school Diploma<br>
