@@ -1,17 +1,4 @@
 theme: jekyll-theme-leap-day
-title: Resume :briefcase:
+title: Resume 
 description: Calpoly 23' Computer/Software Engineering major
 
-logo: # filename of a logo image that has been placed into your images directory
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Walter
-  avatar: #add some image
-  bio: "This is my CV academic website."
-  email: wtoriola@calpoly.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: walter_tori111
-  linkedin: #username
-  github: Walter909
-  Phone #: # (ex. 000-000-0000)
