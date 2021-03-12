@@ -9,7 +9,6 @@ Computer engineer (and sometimes intense gamer) born in Lagos, Nigeria_ <br>
 **English**: Native <br>
 **Yoruba**: Beginner
 <br><br>
-
 ## 🎓 Education
 
 **Chrisland High School** High school Diploma<br>
@@ -22,7 +21,8 @@ Computer engineer (and sometimes intense gamer) born in Lagos, Nigeria_ <br>
 [Calpoly Slo](https://www.calpoly.edu/) - California, USA _(FALL 2020 - PRESENT)_
 
 ## 💻 Projects @ Calpoly
--[Project1](https://github.com/CPE202-Johnson/project1-Walter909/blob/main/ass1.md)
--[Project2](https://github.com/CPE202-Johnson/project2-Walter909/blob/main/ass2.md)
--[Project3](https://github.com/CPE202-Johnson/project3-Walter909/blob/main/ass3a.md)
+-[Project1](https://github.com/CPE202-Johnson/project1-Walter909/blob/main/ass1.md)<br>
+-[Project2](https://github.com/CPE202-Johnson/project2-Walter909/blob/main/ass2.md)<br>
+-[Project3](https://github.com/CPE202-Johnson/project3-Walter909/blob/main/ass3a.md)<br>
 -[Project4](https://github.com/CPE202-Johnson/project4-Walter909/blob/main/ass4.md)
+<br><br>
