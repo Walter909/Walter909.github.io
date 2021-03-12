@@ -1,9 +1,25 @@
-### Welcome to the beginning 
+# Getting started
 
 You can use the [editor on GitHub](https://github.com/Walter909/Walter909.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[Resume](./Resume (3).pdf)
+🏆
+
+
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Walter
+  avatar: #add some image
+  bio: "This is my CV academic website."
+  email: wtoriola@calpoly.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: walter_tori111
+  linkedin: #username
+  github: Walter909
+  Phone #: # (ex. 000-000-0000)
+
 
 ### Markdown
 
