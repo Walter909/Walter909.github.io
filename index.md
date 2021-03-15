@@ -35,6 +35,6 @@ Computer engineer (and sometimes intense gamer🕹️) born in Lagos, Nigeria <b
   <br><br>
 
   ## 🏆 Work Experience
-  **Math and Physics Tutor** @Skyline
-  -  Worked in a program that assisted students in sophomore level math and physics classes(Calculus, Thermodynamics e.t.c)
+  **Math and Physics Tutor** @Skyline<br>
+  Worked in a program that assisted students in sophomore level math and physics classes(Calculus, Thermodynamics e.t.c)
 
