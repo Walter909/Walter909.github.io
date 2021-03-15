@@ -2,7 +2,7 @@
 
 Computer engineer (and sometimes intense gamer🕹️) born in Lagos, Nigeria <br>
 
-[Email](mailto:wtoriola@calpoly.edu) / [LinkedIn](https://www.linkedin.com/in/walter-toriola-8849151b1/) / [GitHub](https://github.com/Walter909) / [Twitter](https://twitter.com/walter_tori11) 
+[Email](mailto:walter.toriola@gmail.com) / [LinkedIn](https://www.linkedin.com/in/walter-toriola-8849151b1/) / [GitHub](https://github.com/Walter909) / [Twitter](https://twitter.com/walter_tori11) 
 
 ## 💻 Projects @ Calpoly
 -[Project1](https://github.com/CPE202-Johnson/project1-Walter909/blob/main/ass1.md)
@@ -34,4 +34,7 @@ Computer engineer (and sometimes intense gamer🕹️) born in Lagos, Nigeria <b
   - C++(Entry level)
   <br><br>
 
+  ## 🏆 Work Experience
+  **Math and Physics Tutor** @Skyline
+  -  Worked in a program that assisted students in sophomore level math and physics classes(Calculus, Thermodynamics e.t.c)
 
