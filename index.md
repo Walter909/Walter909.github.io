@@ -32,7 +32,7 @@ Computer engineer (and sometimes intense gamer🕹️) born in Lagos, Nigeria <b
   - Python
   - Java
   - C++(Entry level)
-  <br><br>
+  <br>
 
   ## 🏆 Work Experience
   **Math and Physics Tutor** @Skyline<br>
